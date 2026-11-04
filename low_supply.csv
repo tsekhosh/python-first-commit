@@ -1,0 +1,8 @@
+supplier,category,quantity,price_per_unit,date,total_price
+MedCorp,Antibiotic,80,4.0,2024-05-15,320.0
+ImmuniCo,Vaccine,60,9.0,2024-05-22,540.0
+PharmaX,Antibiotic,90,5.0,2024-05-28,450.0
+MedCorp,Vaccine,40,8.5,2024-06-01,340.0
+ImmuniCo,Vaccine,70,8.5,2024-06-08,595.0
+MedCorp,Antibiotic,95,3.8,2024-06-15,361.0
+VitaPlus,Vaccine,55,9.5,2024-06-18,522.5
